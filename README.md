@@ -10,10 +10,10 @@ webwinkel.
 ## Demo
 https://github.com/user-attachments/assets/9d627482-5e46-459d-a0f9-53228a487a90
 
-Klik op de afbeelding voor een korte schermopname van de volledige flow:
-openen iDEAL-pagina → tussenscherm met countdown → push op telefoon → tap
-op Goedkeuren of Afkeuren → betaling gaat door of wordt geblokkeerd met
-een fraudewaarschuwing.
+Korte schermopname van de volledige flow: openen iDEAL-pagina →
+tussenscherm met countdown → push op telefoon → tap op Goedkeuren of
+Afkeuren → betaling gaat door of wordt geblokkeerd met een
+fraudewaarschuwing.
 
 ## Het probleem
 
