@@ -9,7 +9,7 @@ webwinkel.
 
 ## Demo
 
-https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4
+<video src="https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4" controls poster="assets/06-Screenshot.png" width="100%"></video>
 
 Korte schermopname van de volledige flow: openen iDEAL-pagina →
 tussenscherm met countdown → push op telefoon → tap op Goedkeuren of
