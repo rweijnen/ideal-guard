@@ -45,7 +45,7 @@ Dit script doet precies dat. Zodra een iDEAL-betaalpagina wordt geopend:
 
 ## Demo
 
-<https://github.com/<jouw-user>/ideal-guard/raw/main/assets/Ideal-Flow.mp4>
+<https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4>
 
 (Korte schermopname van de volledige flow: openen iDEAL-pagina →
 tussenscherm → push op telefoon → goedkeuren of afkeuren.)
