@@ -9,12 +9,12 @@ webwinkel.
 
 ## Demo
 
-<video src="https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4" controls poster="assets/06-Screenshot.png" width="100%"></video>
+[![Bekijk de demo](assets/06-Screenshot.png)](https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4)
 
-Korte schermopname van de volledige flow: openen iDEAL-pagina →
-tussenscherm met countdown → push op telefoon → tap op Goedkeuren of
-Afkeuren → betaling gaat door of wordt geblokkeerd met een
-fraudewaarschuwing.
+Klik op de afbeelding voor een korte schermopname van de volledige flow:
+openen iDEAL-pagina → tussenscherm met countdown → push op telefoon → tap
+op Goedkeuren of Afkeuren → betaling gaat door of wordt geblokkeerd met
+een fraudewaarschuwing.
 
 ## Het probleem
 
