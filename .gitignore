@@ -1,0 +1,16 @@
+# Persoonlijke werkkopie van het script (bevat live tokens en hostnames)
+prod/
+
+# Lokaal opgeslagen secrets
+token.txt
+topic.txt
+
+# Lokale bewerk-backup
+ideal - Copy.js
+
+# Opgeslagen pagina's gebruikt om iDEAL DOM-structuur te bestuderen
+webpage/
+webpage2/
+
+# Claude Code project memo (niet relevant voor gebruikers van de repo)
+CLAUDE.md
