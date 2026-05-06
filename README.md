@@ -7,6 +7,15 @@ op zijn telefoon op **Goedkeuren** tikt; bij **Afkeuren** blijft een grote
 fraudewaarschuwing op het scherm staan en wordt er niet teruggeleid naar de
 webwinkel.
 
+## Demo
+
+https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4
+
+Korte schermopname van de volledige flow: openen iDEAL-pagina →
+tussenscherm met countdown → push op telefoon → tap op Goedkeuren of
+Afkeuren → betaling gaat door of wordt geblokkeerd met een
+fraudewaarschuwing.
+
 ## Het probleem
 
 Oudere familieleden zijn een geliefd doelwit van scams die eindigen met een
@@ -15,10 +24,6 @@ iDEAL-betaling: een vermeende "abonnementsverlenging" van McAfee, een
 slachtoffer komt op een echte iDEAL-pagina terecht (technisch gezien klopt
 alles), kiest zijn eigen bank en autoriseert het bedrag in zijn vertrouwde
 bank-app. Op dat moment is het geld weg en is er geen weg terug.
-
-![Stap 1 — de scam-mail](assets/01.McAfeeOrder.png)
-
-![Stap 2 — echte iDEAL-pagina](assets/02-McAfee-Ideal.png)
 
 Een wachttijd alleen helpt nauwelijks: een vastberaden gebruiker wacht hem
 gewoon uit. Wat wél helpt is een **tweede paar ogen** — iemand die niet onder
@@ -35,20 +40,6 @@ Dit script doet precies dat. Zodra een iDEAL-betaalpagina wordt geopend:
 3. Pas na een tap op Goedkeuren verdwijnt het tussenscherm en kan de betaling
    doorgaan.
 
-![Tussenscherm tijdens controle](assets/06-Screenshot.png)
-
-![Push-melding op de telefoon](assets/05-Notification.png)
-
-![Goedgekeurd — tussenscherm verdwijnt](assets/03-Payment-Approved.png)
-
-![Afgekeurd — fraudewaarschuwing blijft staan](assets/04-PaymentDenied.png)
-
-## Demo
-
-<https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4>
-
-(Korte schermopname van de volledige flow: openen iDEAL-pagina →
-tussenscherm → push op telefoon → goedkeuren of afkeuren.)
 
 ## Hoe het werkt
 
@@ -215,3 +206,10 @@ betaling. Alleen jouw goedkeuring kan dat.
   wordt.
 - Het script vertrouwt op `api.ipify.org` voor het publieke IP-adres.
   Mocht die offline zijn, dan staat er "onbekend" in de melding.
+
+## Licentie
+
+Dit project staat onder de [Mozilla Public License 2.0](LICENSE) — je mag
+het gebruiken, aanpassen en verspreiden, mits aangepaste *bronbestanden*
+onder dezelfde licentie beschikbaar blijven. Combineren met code onder een
+andere licentie mag, zolang de MPL-bestanden zelf herkenbaar blijven.
