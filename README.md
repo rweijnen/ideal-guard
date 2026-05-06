@@ -8,8 +8,7 @@ fraudewaarschuwing op het scherm staan en wordt er niet teruggeleid naar de
 webwinkel.
 
 ## Demo
-
-[![Bekijk de demo](assets/06-Screenshot.png)](https://github.com/rweijnen/ideal-guard/raw/main/assets/Ideal-Flow.mp4)
+https://github.com/user-attachments/assets/9d627482-5e46-459d-a0f9-53228a487a90
 
 Klik op de afbeelding voor een korte schermopname van de volledige flow:
 openen iDEAL-pagina → tussenscherm met countdown → push op telefoon → tap
